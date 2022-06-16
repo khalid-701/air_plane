@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172116023039",
+    "project_id": "airplane-5b16b",
+    "storage_bucket": "airplane-5b16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172116023039:android:bddf62a0f29c3277781eca",
+        "android_client_info": {
+          "package_name": "com.khalid.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172116023039-9gtho7kninda7lq7kfkrpp6mlo0s3hd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSyATyhHlMLPci-IHu85kVcvEv0pBPs48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172116023039-9gtho7kninda7lq7kfkrpp6mlo0s3hd5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172116023039-epqvva223j4neookoh7n8m6v1hhk3icp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.khalid.airplane",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
